@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Alessandro 👋
+
+I'm doing a MSc in Foundations of AI and ML at the University of Trieste.
+
+- 🔭 I’m doing **research** at the [ERAL Lab](https://erallab.inginf.units.it/)
+  - Control of voxel-based soft robots
+  - Combining reinforcement learning and evolutionary algorithms
+  - Evolving reward functions for robotic tasks
+  
+- 🚧 I’m working as a **freelance ML developer**
+  - Custom object detection models
+  - Design of sports data analytics solutions
+
+- 🌱 I’m learning *Java* and *C++*
+
 
 <!--
 **AlessandroPierro/AlessandroPierro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
