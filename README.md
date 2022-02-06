@@ -2,13 +2,13 @@
 
 I'm doing a MSc in Foundations of AI and ML at the University of Trieste.
 
-- 🔭 I’m doing **research** at the [ERAL Lab](https://erallab.inginf.units.it/)
+- 🔭 I’m doing **research** at the [ERAL Lab](https://erallab.inginf.units.it/) @ University of Trieste
   - Control of voxel-based soft robots
   - Combining reinforcement learning and evolutionary algorithms
   - Evolving reward functions for robotic tasks
   
 - 🚧 I’m working as a **freelance ML developer**
-  - Custom object detection models
+  - ML applications for small/medium businesses
   - Design of sports data analytics solutions
 
 - 🌱 I’m learning *Java* and *C++*
