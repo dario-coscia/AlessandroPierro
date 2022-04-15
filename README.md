@@ -9,7 +9,6 @@ I'm doing a MSc in Foundations of AI and ML at the University of Trieste.
   
 - 🚧 I’m working as a **freelance ML developer**
   - ML applications for small/medium businesses
-  - Design of sports data analytics solutions
 
 - 🌱 I’m learning *Java* and *C++*
 
